@@ -27,7 +27,7 @@ First see these important repos:
 
 ## Fun facts
 
-We used these materials:
+We used these materials for the PWM panels:
 
 - 44 KM copper wire
 - 850 KG wood(fiberboard)
